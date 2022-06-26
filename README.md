@@ -1,4 +1,4 @@
-# AWS Describe IAM role policy documents
+# Describe IAM role policy documents for AWS
 
 Python Script that describes the following Policy documents for the specified IAM role.
 
